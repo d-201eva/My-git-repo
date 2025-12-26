@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 HI
 MJB TBC
 So this is how it is
+=======
+MJB TBC 
+this is not how it is
+>>>>>>> 25a3fdbb38cbf6b8e70fa84a684b4d97b4e63ba8
